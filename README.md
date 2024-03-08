@@ -121,14 +121,13 @@
 Ссылка на весь проект целиком - [здесь](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering)
 
 
+<h2> Проекты с хакатонов </h2>
 
-<h2>Проекты с хакатонов</h2>
-
-<h3 id="hackaton1">Хакатон №1. ML TalentMatch</h3>
+<h3 id="hackaton1"> Хакатон №1. ML TalentMatch </h3>
 
 
 <p><img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/hackaton1.jpg" width=250 align="left"> 
-
+Разработать и реализовать алгоритм, который будет разбивать информацию, содержащуюся в резюме кандидата по смысловым блокам: образование, опыт работы, навыки и т.д. На выходе должен быть структурированный JSON.Данные предоставляются в виде структурированных резюме кандидатов в произвольном виде (word, pdf…).
 <br clear=left></p>
 
 
