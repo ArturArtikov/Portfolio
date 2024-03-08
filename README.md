@@ -127,7 +127,9 @@
 <h3 id="hackaton1">Хакатон №1. ML TalentMatch</h3>
 
 
+<p><img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/hackaton1.jpg" width=250 align="left"> 
 
+<br clear=left></p>
 
 
 
