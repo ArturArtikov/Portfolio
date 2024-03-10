@@ -134,7 +134,7 @@
 <h2> Проекты с кейс-чемпионатов </h2>
 <h3 id="case1">Axenix Business Cup</h3>
 
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/case_projects1.jpg" height=250 align="left">
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/case_projects1.jpg" height=150 align="left">
 
 
 
