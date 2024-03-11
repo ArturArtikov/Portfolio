@@ -122,18 +122,19 @@
 
 
 <h2> Проекты с хакатонов </h2>
-
 <h3 id="hackaton1"> Хакатон №1. ML TalentMatch </h3>
-
+<h4>Краткое описание проекта</h4>
 
 <p><img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/hackaton1.jpg" height=150 align="left"> 
 Разработать и реализовать алгоритм, который будет разбивать информацию, содержащуюся в резюме кандидата по смысловым блокам: образование, опыт работы, навыки и т.д. На выходе должен быть структурированный JSON.Данные предоставляются в виде структурированных резюме кандидатов в произвольном виде (word, pdf…).
 <br clear=left></p>
 
 
+
 <h2> Проекты с кейс-чемпионатов </h2>
 <h3 id="case1">Axenix Business Cup</h3>
 
+<h4>Краткое описание проекта</h4>
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/case_projects1.jpg" height=150 align="left">
 
 
