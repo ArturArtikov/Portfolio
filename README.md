@@ -12,7 +12,7 @@
     <h2>Проекты с хакатонов</h2>
       <a href="#hackaton1">Хакатон №1. ML TalentMatch</a><br>
     <h2>Проекты с кейс-чемпионатов</h2>
-      <a href="#case1">Axenix Business Cup</a><br>
+      <a href="#case1">Кейс-чемпионат №1. Axenix Business Cup</a><br>
 </nav>
 
 
@@ -132,7 +132,7 @@
 
 
 <h2> Проекты с кейс-чемпионатов </h2>
-<h3 id="case1">Axenix Business Cup</h3>
+<h3 id="case1">Кейс-чемпионат №1. Axenix Business Cup</h3>
 
 <h4>Краткое описание проекта</h4>
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/case_projects1.jpg" height=150 align="left">
