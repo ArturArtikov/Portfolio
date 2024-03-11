@@ -50,7 +50,7 @@
 
 
 
-<h3 id="project2">Проект 2. Анализ вакансий из HeadHunter</h3>
+<h3 id="project2">Проект №2. Анализ вакансий из HeadHunter</h3>
 
 <h4>Краткое описание проекта</h4>
 
@@ -82,7 +82,7 @@
 
 Ссылка на весь проект целиком - [здесь](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter)
 
-<h3 id="project3">Проект 3. Анализ отзывов отелей с Booking</h3>
+<h3 id="project3">Проект №3. Анализ отзывов отелей с Booking</h3>
 
 <h4>Краткое описание проекта</h4>
 
