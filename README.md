@@ -1,17 +1,29 @@
 ![Portfolio Header](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/portfolio_header.png)
 
-# Общее описание раздела
+## Общее описание раздела
 
 В данном разделе приводится общее описание каждого реализованного проекта, а также рассказывается о стеке используемых в каждом проекте технологий. Более подробную информацию о каждом проекте вы можете узнать в соответствующем файле README.md, внутри каждой из папок с проектами.
 
-# Персональные проекты
+## Персональные проекты
 #### [Проект №1. Анализ резюме из HeadHunter](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-1-анализ-резюме-из-headhunter-1)
 #### [Проект №2. Анализ вакансий из HeadHunter](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-2-анализ-вакансий-из-headhunter-1)
 #### [Проект №3. Анализ отзывов отелей с Booking](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-3-анализ-отзывов-отелей-с-booking-1)
 
-# Проекты с хакатонов
+## Проекты с хакатонов
 #### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)
 #### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1)
+
+
+## Проекты с кейс-чемпионатов
+#### [Кейс-чемпионат №1. Axenix Business Cup](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#[кейс-чемпионат-1-axenix-business-cup-1)
+#### [Кейс-чемпионат №2. Changellenge Cup IT 2024]()
+
+
+
+
+
+
+
 
 ## Персональные проекты
 
@@ -194,14 +206,37 @@ Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-
 
 
 
+## Проекты с кейс-чемпионатов
 
+### Кейс-чемпионат №1. Axenix Business Cup
 
+#### Краткое описание проекта
 
-<h2> Проекты с кейс-чемпионатов </h2>
-<h3 id="case1">Кейс-чемпионат №1. Axenix Business Cup</h3>
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects1.jpg" height=150 align="left"> 
 
-<h4>Краткое описание проекта</h4>
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/case_projects1.jpg" height=150 align="left">
+Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text
+
+#### План для достижения цели проекта
+
+1.
+2.
+3.
+4.
+5.
+
+#### Используемые технологии и инструменты
+
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### Дополнительно
+
+Ссылка на весь проект целиком - [здесь]()
+
+:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
+
 
 
 
