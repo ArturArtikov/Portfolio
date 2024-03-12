@@ -200,13 +200,8 @@ Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
-
-
-
-
-
-
-## Проекты с кейс-чемпионатов
+  
+  ## Проекты с кейс-чемпионатов
 
 ### Кейс-чемпионат №1. Axenix Business Cup
 
