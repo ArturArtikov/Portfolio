@@ -11,7 +11,7 @@
 
 ## Проекты с хакатонов
 #### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)
-#### [Хакатон №2. IT Purple Hack]()
+#### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1)
 
 ## Персональные проекты
 
@@ -126,13 +126,21 @@
 
 ## Проекты с хакатонов
 
-#### [Хакатон №1. ML TalentMatch]()
+### Хакатон №1. ML TalentMatch
 
 #### Краткое описание проекта
 
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackaton1.jpg" height=150 align="left"> 
 
 Разработать и реализовать алгоритм, который будет разбивать информацию, содержащуюся в резюме кандидата по смысловым блокам: образование, опыт работы, навыки и т.д. На выходе должен быть структурированный JSON.Данные предоставляются в виде структурированных резюме кандидатов в произвольном виде (word, pdf…).
+
+#### План для достижения цели проекта
+
+1.
+2.
+3.
+4.
+5.
 
 #### Используемые технологии и инструменты
 
@@ -142,6 +150,37 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-%23bf3a1d.svg?style=for-the-badge)
 ![DOCX](https://img.shields.io/badge/DOCX-%230084ff.svg?style=for-the-badge)
+
+#### Дополнительно
+
+Ссылка на весь проект целиком - [здесь]()
+
+:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
+
+
+
+### Хакатон №2. IT Purple Hack
+
+#### Краткое описание проекта
+
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackaton2.jpg" height=150 align="left"> 
+
+Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text
+
+#### План для достижения цели проекта
+
+1.
+2.
+3.
+4.
+5.
+
+#### Используемые технологии и инструменты
+
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Дополнительно
 
