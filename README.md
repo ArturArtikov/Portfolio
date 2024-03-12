@@ -1,4 +1,4 @@
-<h1>Data Science Проекты</h1>
+![Portfolio Header](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/portfolio_header.png)
 
 <h2>Общее описание раздела</h2>
 
