@@ -19,25 +19,20 @@
 
 
 <h2>Персональные проекты</h2>
-<h3 id="project1">Проект №1. Анализ резюме из HeadHunter</h3>
-
-<h4>Краткое описание проекта</h4>
-
-<p><img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/project1.png" height=150 align="left">
-Нашим заказчиком выступает крупнейшая российская компания интернет-рекрутмента - 
-<a href="https://hh.ru/">HeadHunter</a>. У нас в руках есть база резюме, выгруженных с сайта. Проблема заключается в том, что часть соискателей не указывает заработную плату, когда составляет резюме. Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю. Наша задача - преобразовать, исследовать и провести базовую очистку данных, чтобы специалисты компании смогли разработать такую модель. 
-<br clear=left></p>
-
-<h4>План для достижения цели проекта</h4>
-
-1. Считать данные и провести их базовый анализ
-2. Преобразовать столбцы в единый числовой формат
-3. Перевести все заработные платы в рублевый эквивалент, основываясь на данных ЦБ
-4. Исследовать зависимости в данных
-5. Провести базовую очистку данных
-
-<h4>Используемые технологии и инструменты</h4>
-
+    <h3 id="project1">Проект №1. Анализ резюме из HeadHunter</h3>
+        <h4>Краткое описание проекта</h4>
+            <p><img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/project1.png" height=150 align="left">
+            Нашим заказчиком выступает крупнейшая российская компания интернет-рекрутмента - 
+            <a href="https://hh.ru/">HeadHunter</a>. У нас в руках есть база резюме, выгруженных с сайта. Проблема заключается в том, что часть соискателей не указывает заработную плату, когда составляет резюме. Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю. Наша задача - преобразовать, исследовать и провести базовую очистку данных, чтобы специалисты компании смогли разработать такую модель. 
+            <br clear=left></p>
+        <h4>План для достижения цели проекта</h4>
+            1. Считать данные и провести их базовый анализ
+            2. Преобразовать столбцы в единый числовой формат
+            3. Перевести все заработные платы в рублевый эквивалент, основываясь на данных ЦБ
+            4. Исследовать зависимости в данных
+            5. Провести базовую очистку данных
+        <h4>Используемые технологии и инструменты</h4>
+        
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -130,6 +125,13 @@
 <p><img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/hackaton1.jpg" height=150 align="left"> 
 Разработать и реализовать алгоритм, который будет разбивать информацию, содержащуюся в резюме кандидата по смысловым блокам: образование, опыт работы, навыки и т.д. На выходе должен быть структурированный JSON.Данные предоставляются в виде структурированных резюме кандидатов в произвольном виде (word, pdf…).
 <br clear=left></p>
+
+<h4>Используемые технологии и инструменты</h4>
+
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 
