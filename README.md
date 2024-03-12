@@ -9,6 +9,10 @@
 #### [Проект №2. Анализ вакансий из HeadHunter](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-2-анализ-вакансий-из-headhunter-1)
 #### [Проект №3. Анализ отзывов отелей с Booking](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-3-анализ-отзывов-отелей-с-booking-1)
 
+## Проекты с хакатонов
+#### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)
+#### [Хакатон №2. IT Purple Hack]()
+
 ## Персональные проекты
 
 ### Проект №1. Анализ резюме из HeadHunter
@@ -79,23 +83,6 @@
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Проект №3. Анализ отзывов отелей с Booking
 
 #### Краткое описание проекта
@@ -103,7 +90,6 @@
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project3.png" height=150 align="left"> 
 
 Во время выполнения проекта мы представляем себя в роли дата-сайентиста компании Booking. Одна из проблем компании - это отели, которые накручивают себе ретинг. Наша задача - создать модель машинного обучения, которая будет предсказывать рейтинг отеля. В том случае, если значение предсказания и реальной оценки будут сильно отличаться мы будем считать, что отель накрутил себе отзыв. В наших руках данные об отелях, а именно: адрес, дата рецензии, название отеля, страна рецензента, тексты позитивного и негативного отзыва, и.т.д. Всего 17 критериев.
-
 
 #### План для достижения цели проекта
 
@@ -138,16 +124,17 @@
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
 
+## Проекты с хакатонов
 
-<h2> Проекты с хакатонов </h2>
-<h3 id="hackaton1"> Хакатон №1. ML TalentMatch </h3>
-<h4>Краткое описание проекта</h4>
+#### [Хакатон №1. ML TalentMatch]()
 
-<p><img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/hackaton1.jpg" height=150 align="left"> 
+#### Краткое описание проекта
+
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackaton1.jpg" height=150 align="left"> 
+
 Разработать и реализовать алгоритм, который будет разбивать информацию, содержащуюся в резюме кандидата по смысловым блокам: образование, опыт работы, навыки и т.д. На выходе должен быть структурированный JSON.Данные предоставляются в виде структурированных резюме кандидатов в произвольном виде (word, pdf…).
-<br clear=left></p>
 
-<h4>Используемые технологии и инструменты</h4>
+#### Используемые технологии и инструменты
 
 ![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -155,6 +142,16 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-%23bf3a1d.svg?style=for-the-badge)
 ![DOCX](https://img.shields.io/badge/DOCX-%230084ff.svg?style=for-the-badge)
+
+#### Дополнительно
+
+Ссылка на весь проект целиком - [здесь]()
+
+:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
+
+
+
+
 
 
 
