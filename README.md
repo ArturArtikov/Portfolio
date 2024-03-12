@@ -20,7 +20,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ## Персональные проекты
 
@@ -57,6 +56,8 @@
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
 
+<br/>
+
 ### Проект №2. Анализ вакансий из HeadHunter
 
 #### Краткое описание проекта
@@ -91,6 +92,8 @@
 Ссылка на весь проект целиком - [здесь]()
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
+
+<br/>
 
 ### Проект №3. Анализ отзывов отелей с Booking
 
@@ -170,7 +173,7 @@
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
-
+<br/>
 
 ### Хакатон №2. IT Purple Hack
 
@@ -201,7 +204,6 @@ Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
-<br/>
 <br/>
 <br/>
 
