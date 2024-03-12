@@ -11,7 +11,6 @@
 
 ## Персональные проекты
 
-
 ### Проект №1. Анализ резюме из HeadHunter
 
 #### Краткое описание проекта
@@ -44,24 +43,6 @@
 Ссылка на весь проект целиком - [здесь]()
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Проект №2. Анализ вакансий из HeadHunter
 
@@ -115,15 +96,16 @@
 
 
 
-<h3 id="project3">Проект №3. Анализ отзывов отелей с Booking</h3>
+### Проект №3. Анализ отзывов отелей с Booking
 
-<h4>Краткое описание проекта</h4>
+#### Краткое описание проекта
 
-<p><img src="https://github.com/ArturArtikov/Portfolio/blob/main/media/project3.png" height=150 align="left"> 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project3.png" height=150 align="left"> 
+
 Во время выполнения проекта мы представляем себя в роли дата-сайентиста компании Booking. Одна из проблем компании - это отели, которые накручивают себе ретинг. Наша задача - создать модель машинного обучения, которая будет предсказывать рейтинг отеля. В том случае, если значение предсказания и реальной оценки будут сильно отличаться мы будем считать, что отель накрутил себе отзыв. В наших руках данные об отелях, а именно: адрес, дата рецензии, название отеля, страна рецензента, тексты позитивного и негативного отзыва, и.т.д. Всего 17 критериев.
-<br clear=left></p>
 
-<h4>План для достижения цели проекта</h4>
+
+#### План для достижения цели проекта
 
 1. Считать данные, а также ознакомиться с тем, как должен выглядеть файл Submission
 2. Объединить данные тестовой и тренировочной выборок, чтобы работать с одним массивом данных
@@ -135,7 +117,7 @@
 8. Строим матрицу корреляций признаков и отбираем необходимые нам
 9. Предсказываем оценки отелей и стремимся свести метрику MAPE к значению менее 13%.
 
-<h4>Используемые технологии и инструменты</h4>
+#### Используемые технологии и инструменты
 
 ![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -150,8 +132,11 @@
 ![Nltk](https://img.shields.io/badge/nltk-%235F9EA0.svg?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+#### Дополнительно
 
-Ссылка на весь проект целиком - [здесь](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering)
+Ссылка на весь проект целиком - [здесь]()
+
+:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
 
 
 <h2> Проекты с хакатонов </h2>
