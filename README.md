@@ -4,12 +4,12 @@
 
 В данном разделе приводится общее описание каждого реализованного проекта, а также рассказывается о стеке используемых в каждом проекте технологий. Более подробную информацию о каждом проекте вы можете узнать в соответствующем файле README.md, внутри каждой из папок с проектами.
 
-## Персональные проекты
+# Персональные проекты
 #### [Проект №1. Анализ резюме из HeadHunter](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-1-анализ-резюме-из-headhunter-1)
 #### [Проект №2. Анализ вакансий из HeadHunter](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-2-анализ-вакансий-из-headhunter-1)
 #### [Проект №3. Анализ отзывов отелей с Booking](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-3-анализ-отзывов-отелей-с-booking-1)
 
-## Проекты с хакатонов
+# Проекты с хакатонов
 #### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)
 #### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1)
 
