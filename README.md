@@ -18,12 +18,9 @@
 #### [Кейс-чемпионат №1. Axenix Business Cup](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-1-axenix-business-cup-1)
 #### [Кейс-чемпионат №2. Changellenge Cup IT 2024]()
 
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## Персональные проекты
 
@@ -136,6 +133,10 @@
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
 
+<br/>
+<br/>
+<br/>
+
 ## Проекты с хакатонов
 
 ### Хакатон №1. ML TalentMatch
@@ -200,6 +201,8 @@ Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
+<br/>
+<br/>
 <br/>
 
 ## Проекты с кейс-чемпионатов
