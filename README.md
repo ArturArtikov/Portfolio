@@ -9,6 +9,13 @@
 #### [Проект №2. Анализ вакансий из HeadHunter](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-2-анализ-вакансий-из-headhunter-1)
 #### [Проект №3. Анализ отзывов отелей с Booking](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-3-анализ-отзывов-отелей-с-booking-1)
 
+
+e
+e
+e
+e
+e
+
 ## Проекты с хакатонов
 #### [Хакатон №1. ML TalentMatch]()
 #### [Хакатон №2. IT Purple Hack]()
@@ -49,7 +56,7 @@
 
 Ссылка на весь проект целиком - [здесь]()
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
 
 
 ### Проект №2. Анализ вакансий из HeadHunter
