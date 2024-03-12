@@ -11,7 +11,7 @@
       <a href="#project3">Проект №3. Анализ отзывов отелей с Booking</a><br>
     <h2>Проекты с хакатонов</h2>
       <a href="#hackaton1">Хакатон №1. ML TalentMatch</a><br>
-      <a href="#hackaton2">Хакатон №2. IT Purple Hack/a><br>
+      <a href="#hackaton2">Хакатон №2. IT Purple Hack</a><br>
     <h2>Проекты с кейс-чемпионатов</h2>
       <a href="#case1">Кейс-чемпионат №1. Axenix Business Cup</a><br>
       <a href="#case2">Кейс-чемпионат №2. Changellenge Cup IT 2024</a><br>
