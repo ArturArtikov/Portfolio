@@ -181,7 +181,7 @@
 
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackaton2.jpg" height=150 align="left"> 
 
-Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text
+Axenix Business Cup это кейс-чемпионат от ведущей консалтинговой компании, где студенты и выпускники решают в командах реальный кейс из практики компании: анализируют проблему клиента, прорабатывают подходящие решения, создают презентации со своими идеями и презентуют свой проект перед менеджерами компании AXENIX. __Задача 1-го этапа:__ создать коммерческое предложения для объединения двух банков из кейса. __Задача 2-го этапа:__ разработать ИТ-архитектуру для нового объединенного банка, а также рассчитать бюджет присоединения и затраты на создание ландшафта, с учетом предоставленных данных и в указанные сроки.
 
 #### План для достижения цели проекта
 
