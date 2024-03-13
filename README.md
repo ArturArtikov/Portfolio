@@ -185,9 +185,9 @@
 
 Команда - *__Digital Fintech Warriors__*
 
-* Руслан Кондрашук: Data Scientist|Product Manager
-* Григорий Мацнев: Backend Python Developer|Data Scientist
-* Артур Артиков: Data Analyst|Data Scientist
+* Руслан Кондрашук: Data Scientist | Product Manager
+* Григорий Мацнев: Backend Python Developer | Data Scientist
+* Артур Артиков: Data Analyst | Data Scientist
 * Александр Струнский: Backend Python Developer  
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
