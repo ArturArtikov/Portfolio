@@ -166,6 +166,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-%23bf3a1d.svg?style=for-the-badge)
 ![DOCX](https://img.shields.io/badge/DOCX-%230084ff.svg?style=for-the-badge)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 #### Дополнительно
 
