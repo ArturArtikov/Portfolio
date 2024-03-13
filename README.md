@@ -221,7 +221,6 @@ Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%231F6F70.svg?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Lightgbm](https://img.shields.io/badge/Lightgbm-%23c6de4e.svg?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%231d2f3e.svg?style=for-the-badge)
 ![Shap](https://img.shields.io/badge/Shap-%238f37bb.svg?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-%23ffcc00.svg?style=for-the-badge)
