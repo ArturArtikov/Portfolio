@@ -183,6 +183,8 @@
 
 Сроки проведения - 28.02.2024-01.03.2024, гибридный формат
 
+Результат - 8-е место в командном зачете 1-го кейса
+
 Команда - *__Digital Fintech Warriors__*
 
 * Руслан Кондрашук: Data Scientist | Product Manager
@@ -216,6 +218,7 @@ Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 #### Дополнительно
 
