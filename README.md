@@ -281,7 +281,7 @@ __Задача 2-го этапа:__ разработать ИТ-архитект
 
 #### Дополнительно
 
-Ссылка на весь проект целиком - [здесь]()
+Ссылка на весь проект целиком - [здесь](https://github.com/ArturArtikov/Portfolio/blob/main/4_case_championships_projects/case_1/README.md)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
