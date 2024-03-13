@@ -227,7 +227,6 @@ Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-
 
 
 
-
 #### Дополнительно
 
 Ссылка на весь проект целиком - [здесь]()
