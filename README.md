@@ -201,7 +201,7 @@
 
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackaton2.jpg" height=150 align="left"> 
 
-Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text
+Text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text
 
 #### План для достижения цели проекта
 
