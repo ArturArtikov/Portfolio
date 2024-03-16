@@ -18,8 +18,8 @@
 
 ## Входные данные
 
-* train_data.pqt - тренировочный датасет с данными клиентов, а также информацией о предсказанных конечных классах (не выложен по просьбе Альфа-банка)
-* test_data.pqt - тестовый датасет, для которого необходимо получить вероятности попадания клиента в продуктовые кластеры (не выложен по просьбе Альфа-банка)
+* train_data.pqt - тренировочный датасет с данными клиентов, а также информацией о предсказанных конечных классах (скрыт по требованию Альфа-банка)
+* test_data.pqt - тестовый датасет, для которого необходимо получить вероятности попадания клиента в продуктовые кластеры (скрыт по требованию Альфа-банка)
 * [cluster_weights.xlsx](https://github.com/ArturArtikov/Portfolio/blob/main/3_hackathon_projects/hackathon_2/data/cluster_weights.xlsx) - коэффициенты значимости кластеров
 * [feature_description.xlsx](https://github.com/ArturArtikov/Portfolio/blob/main/3_hackathon_projects/hackathon_2/data/feature_description.xlsx) - описание признаков датасетов
 
