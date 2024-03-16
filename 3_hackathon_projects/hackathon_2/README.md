@@ -90,5 +90,6 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%231d2f3e.svg?style=for-the-badge)
 ![Shap](https://img.shields.io/badge/Shap-%238f37bb.svg?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-%23ffcc00.svg?style=for-the-badge)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 [Главная страница портфолио](https://github.com/ArturArtikov/Portfolio/blob/main/README.md)
