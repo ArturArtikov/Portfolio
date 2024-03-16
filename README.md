@@ -10,7 +10,7 @@
 #### [Проект №3. Анализ отзывов отелей с Booking](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проект-3-анализ-отзывов-отелей-с-booking-1)
 
 ## Проекты с хакатонов
-#### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)
+#### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)  
 #### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1) :white_check_mark:
 
 
