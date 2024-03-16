@@ -199,7 +199,7 @@
 
 #### Краткое описание проекта
 
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackaton2.jpg" height=150 align="left"> 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackathon2.jpg" height=150 align="left"> 
 
 Задача проекта - построение модели, которая будет предсказывать продуктовый кластер клиента - Юридического лица на горизонте в 12 месяцев. 
 
