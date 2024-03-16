@@ -11,7 +11,7 @@
 
 ## Проекты с хакатонов
 #### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)  
-#### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1) ✅
+#### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1) 
 
 
 ## Проекты с кейс-чемпионатов
