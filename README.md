@@ -16,7 +16,7 @@
 
 ## Проекты с кейс-чемпионатов
 #### [Кейс-чемпионат №1. Axenix Business Cup](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-1-axenix-business-cup-1)
-[//]: [Кейс-чемпионат №2. Changellenge Cup IT]()
+[//]: # [Кейс-чемпионат №2. Changellenge Cup IT]()
 
 <br/>
 <br/>
