@@ -245,6 +245,7 @@ __Задача:__ Разработать концепцию рекомендат
 
 
 </br>
+
 #### Используемый стек и технологии
 ![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
