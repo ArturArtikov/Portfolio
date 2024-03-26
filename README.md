@@ -238,8 +238,7 @@ __Задача 2-го этапа:__ разработать ИТ-архитект
 
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects2.png" height=150 align="left"> 
 
-Кейс - Анализ данных (P&G)
-
+__Кейс:__ Анализ данных, кейс от компании Procter & Gamble
 
 __Задача:__ Разработать концепцию рекомендательной системы для товаров P&G в розничной сети магазинов с целью автоматического получения идеальной планограммы
 
