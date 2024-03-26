@@ -244,7 +244,7 @@ __Задача 2-го этапа:__ разработать ИТ-архитект
 __Задача:__ Разработать концепцию рекомендательной системы для товаров P&G в розничной сети магазинов с целью автоматического получения идеальной планограммы
 
 
-
+</br>
 #### Используемый стек и технологии
 ![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
