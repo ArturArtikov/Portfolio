@@ -257,6 +257,8 @@ __Входные данные:__ Шесть датасетов в формате
 
 #### Дополнительно
 
+Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_2)
+
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
 </br>
