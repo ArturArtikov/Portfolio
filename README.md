@@ -234,7 +234,7 @@ __Задача 2-го этапа:__ разработать ИТ-архитект
 
 #### Краткое описание проекта
 
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects2.png" height=150 align="left"> 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/photo1.png" height=150 align="left"> 
 
 __Кейс:__ Анализ данных, кейс от компании Procter & Gamble
 
