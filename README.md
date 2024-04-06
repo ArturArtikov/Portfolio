@@ -16,15 +16,14 @@
 ## Проекты с хакатонов
 #### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)  
 #### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1) 
-[//]: # "[Хакатон №3. Moscow Travel Hack]()"
-[//]: # "[Хакатон №4. Цифровой прорыв. ЮФО - Сочи]()"
-[//]: # "[Хакатон №5. Цифровой прорыв. ЦФО - Москва]()"
+[//]: # "[Хакатон №3. Цифровой прорыв. ЮФО - Сочи]()"
+[//]: # "[Хакатон №4. Цифровой прорыв. ЦФО - Москва]()"
 
 
 ## Проекты с кейс-чемпионатов
 #### [Кейс-чемпионат №1. Axenix Business Cup](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-1-axenix-business-cup-1)
 #### [Кейс-чемпионат №2. Changellenge Cup IT](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-2-changellenge-cup-it-1)
-#### [Кейс-чемпионат №3. Changellenge Cup Russia]()
+#### [Кейс-чемпионат №3. Changellenge Cup Russia](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-3-changellenge-russia-1)
 [//]: # "[Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ]()"      
 
 
@@ -268,6 +267,12 @@ __Входные данные:__ Шесть датасетов в формате
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_2)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
+
+</br>
+
+### Кейс-чемпионат №3. Changellenge Cup Russia
+
+
 
 </br>
 </br>
