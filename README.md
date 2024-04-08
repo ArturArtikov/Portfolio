@@ -15,16 +15,20 @@
 
 ## Проекты с хакатонов
 #### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)  
-#### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1) 
-[//]: # "[Хакатон №3. Цифровой прорыв. ЮФО - Сочи]()"
-[//]: # "[Хакатон №4. Цифровой прорыв. ЦФО - Москва]()"
-
+#### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1)
+[//]: # "[Хакатон №3. Alfa x FinU Hack]()"
+[//]: # "[Хакатон №4. Цифровой прорыв. ЮФО - Сочи]()"
+[//]: # "[Хакатон №5. Тинькофф CTF]()"
+[//]: # "[Хакатон №6. Цифровой прорыв. ЦФО - Москва]()"
+[//]: # "[Хакатон №7. ]()"
+ 
 
 ## Проекты с кейс-чемпионатов
 #### [Кейс-чемпионат №1. Axenix Business Cup](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-1-axenix-business-cup-1)
 #### [Кейс-чемпионат №2. Changellenge Cup IT](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-2-changellenge-cup-it-1)
 #### [Кейс-чемпионат №3. Changellenge Cup Russia](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-3-changellenge-cup-russia-1)
-[//]: # "[Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ]()"      
+[//]: # "[Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ]()"
+[//]: # "[Кейс-чемпионат №5. Gum Cup x Альфа-банк]()"
 
 
 <br/>
