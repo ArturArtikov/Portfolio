@@ -40,7 +40,7 @@ https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysi
 https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysis_of_resumes_from_HeadHunter/README.md#Оглавление)
 
 ### Краткая информация о данных
-[dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/1aWXimfA5HMvh0SUdng_FdUhtHKr0N-8l/view?usp=sharing) - база данных, содержащая вакансии и отклики по ним
+dst-3.0_16_1_hh_database.csv - база данных, содержащая вакансии и отклики по ним
 
 [ExchangeRates.csv](https://github.com/ArturArtikov/Educational_projects/blob/main/Project_1_Analysis_of_resumes_from_HeadHunter/data/ExchangeRates.csv) - база данных, содержащая отношение валют к рублю за необходимый для анализа срок
 
