@@ -40,11 +40,11 @@
 
 ### Краткая информация о данных
 
-[hotels_train.csv](https://drive.google.com/file/d/1KPOEfEaNcgZusdGXIL9HfsNEsIuTWHvz/view?usp=sharing) - набор данных для обучения модели
+* hotels_train.csv - набор данных для обучения модели
 
-[hotels_test.csv](https://drive.google.com/file/d/13f6NlHlwiK8RIsv06y9r74jJ0KegyxVv/view?usp=sharing) - набор данных для оценки качества модели
+* hotels_test.csv - набор данных для оценки качества модели
 
-[submission.csv](https://drive.google.com/file/d/19yA07dCMnkWQezDLqqfP63ZJi4XaSgLn/view?usp=sharing) -  файл сабмишна в нужном формате (то как должен будет выглядеть результат после предсказания)
+* [submission.csv]() -  файл сабмишна в нужном формате (то как должен будет выглядеть результат после предсказания)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Оглавление)
 
