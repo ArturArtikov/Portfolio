@@ -44,7 +44,7 @@
 
 * hotels_test.csv - набор данных для оценки качества модели
 
-* [submission.csv]() -  файл сабмишна в нужном формате (то как должен будет выглядеть результат после предсказания)
+* [submission.csv](https://github.com/ArturArtikov/Portfolio/blob/main/2_personal_projects/project_3/submission.csv) -  файл сабмишна в нужном формате (то как должен будет выглядеть результат после предсказания)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Оглавление)
 
