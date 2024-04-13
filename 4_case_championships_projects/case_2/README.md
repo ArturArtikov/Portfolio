@@ -71,11 +71,11 @@ __Сертификат|Диплом:__ [Диплом High Quality Awards](https:
 
 Список участников команды:
 
-* [Косицына Евгения](https://t.me/QEvgesha): Капитан команды | Data Analyst
-* [Артиков Артур](https://t.me/ArturArtikov): Data Scientist | Data Analyst
-* [Шевченко Андрей](https://t.me/drynya_7): Backend Python Developer
-* Галенда Семен: Data Analyst | Designer
-* Самсонова Александра: Slide maker | Designer
+* [Косицына Евгения](https://t.me/QEvgesha) - Капитан команды | Data Analyst
+* [Артиков Артур](https://t.me/ArturArtikov) - Data Scientist | Data Analyst
+* [Шевченко Андрей](https://t.me/drynya_7) - Backend Python Developer
+* Галенда Семен - Data Analyst | Designer
+* Самсонова Александра - Slide maker | Designer
 
 <br/>
 
