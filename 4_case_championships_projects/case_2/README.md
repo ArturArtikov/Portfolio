@@ -53,38 +53,42 @@ __Сфера применения:__ Розничный ритейл
 
 ## Сроки и результаты
 
-1. Какие у хакатона сроки?
-2. Какой получился результат? Ссылка на результат, если есть
-3. Как еще можно улучшить решение?
-4. Какой получился результат метрики в приватном лидерборде?
-5. Результат в итоговом лидерборде
-6. Сертификат со ссылкой (если есть)
+__Сроки:__ 11.03.2024 - 17.03.2024 (1-ый этап), 02.04.2024 - онлайн финал
 
-Фото лидерборда, если есть:
+__Результат:__ [презентация](https://github.com/ArturArtikov/Portfolio/blob/main/4_case_championships_projects/case_2/Changellenge%20Cup%20IT.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.%20%D0%9A%D0%B5%D0%B9%D1%81%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20Procter%20and%20Gamble.%20%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20New%20challenge.pdf) решения кейса со всем необходимым описанием
 
+__Возможные улучшения:__ создание рекомендательной модели на основе Python-библиотек OpenCV, TensorFlow, PyTorch
 
-<img src="" height=200 align="left"> 
+__Итоговый результат:__ оценка выполненной работы в виде показателя HQA (High Quality Awards)
+
+__Сертификат|Диплом:__ [Диплом High Quality Awards](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Changellenge%20Cup%20IT%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20HQA.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 <br/>
 
 ## Командный состав
 
-Команда: __*Название команды*__
+Команда: __New challenge__
 
 Список участников команды:
 
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
+* [Косицына Евгения](https://t.me/QEvgesha): Капитан команды | Data Analyst
+* [Артиков Артур](https://t.me/ArturArtikov): Data Scientist | Data Analyst
+* [Шевченко Андрей](https://t.me/drynya_7): Backend Python Developer
+* Галенда Семен: Data Analyst | Designer
+* Самсонова Александра: Slide maker | Designer
 
 <br/>
 
 ## Используемый стек и технологии
 
-Стек и технологии прописать с помощью shields.io
-
 ![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%231F6F70.svg?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-[Главная страница портфолио](ссылка)
+[Главная страница портфолио](https://github.com/ArturArtikov/Portfolio/blob/main/README.md)
