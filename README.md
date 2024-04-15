@@ -20,10 +20,10 @@
  
 
 ## Проекты с кейс-чемпионатов
-#### [Кейс-чемпионат №1. Axenix Business Cup](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-1-axenix-business-cup)
-#### [Кейс-чемпионат №2. Changellenge Cup IT](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-2-changellenge-cup-it)
-#### [Кейс-чемпионат №3. Changellenge Cup Russia](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-3-changellenge-cup-russia)
-#### [Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-4-олимпиада-для-первых-мегафон-х-спбгу)
+#### [Кейс-чемпионат №1. Axenix Business Cup](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-1-axenix-business-cup-1)
+#### [Кейс-чемпионат №2. Changellenge Cup IT](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-2-changellenge-cup-it-1)
+#### [Кейс-чемпионат №3. Changellenge Cup Russia](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-3-changellenge-cup-russia-1)
+#### [Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-4-олимпиада-для-первых-мегафон-х-спбгу-1)
 [//]: # "[Кейс-чемпионат №5. Gum Cup x Альфа-банк]()"
 
 
