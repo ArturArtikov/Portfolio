@@ -296,6 +296,14 @@ __Входные данные:__
 
 #### Краткое описание проекта
 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects4.jpg" height=150 align="left"> 
+
+__Кейс:__ 
+
+__Задача:__ 
+
+__Входные данные:__ 
+
 #### Используемый стек и технологии
 
 #### Дополнительно
