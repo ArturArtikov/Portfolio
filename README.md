@@ -274,7 +274,7 @@ __Входные данные:__ Шесть датасетов в формате
 
 #### Краткое описание проекта
 
-<img src="1_media/3_case_championships_projects/case_projects3.png" height=150 align="left"> 
+<img src="" height=150 align="left"> 
 
 __Кейс:__ 
 
