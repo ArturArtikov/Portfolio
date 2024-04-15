@@ -26,7 +26,7 @@
 #### [Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-4-олимпиада-для-первых-мегафон-х-спбгу-1)
 [//]: # "[Кейс-чемпионат №5. Gum Cup x Альфа-банк]()"
 
-
+https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-4-олимпиада-для-первых-мегафон-х-спбгу-1
 
 
 <br/>
