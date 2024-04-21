@@ -145,7 +145,7 @@
 
 #### Дополнительно
 
-Сертификат участника вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/ML%20TalentMatch%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+Сертификат ***участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/ML%20TalentMatch%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_1)
 
@@ -184,7 +184,7 @@
 
 #### Дополнительно
 
-Сертификат участника вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/IT%20Purple%20Hack%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+Сертификат ***участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/IT%20Purple%20Hack%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_2)
 
@@ -224,13 +224,11 @@
 
 #### Дополнительно
 
-Сертификат финалиста вы можете посмотреть [тут]([информация появится до 23.04 включительно])
+Сертификат ***финалиста*** вы можете посмотреть [тут]([информация появится до 23.04 включительно])
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_3)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
-
-
 
 <br/>
 <br/>
@@ -270,7 +268,7 @@ __Задача 2-го этапа:__ разработать ИТ-архитект
 
 #### Дополнительно
 
-Диплом полуфиналиста вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Axenix%20Business%20Cup%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BF%D0%BE%D0%BB%D1%83%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+***Диплом полуфиналиста*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Axenix%20Business%20Cup%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BF%D0%BE%D0%BB%D1%83%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_1)
 
@@ -302,10 +300,9 @@ __Входные данные:__ Шесть датасетов в формате
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
 #### Дополнительно
 
-Диплом High Quality Awards вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Changellenge%20Cup%20IT%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20HQA.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+***Диплом High Quality Awards*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Changellenge%20Cup%20IT%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20HQA.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_2)
 
@@ -355,6 +352,6 @@ __Входные данные:__
 
 </br>
 </br>
-Дата последнего обновления раздела - 16.04.2024<br>
+Дата последнего обновления раздела - 21.04.2024<br>
 
 Макет, написание кода и оформление - **Артур Артиков**
