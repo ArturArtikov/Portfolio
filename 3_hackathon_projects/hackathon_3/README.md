@@ -2,7 +2,7 @@
 
 ## Описание
 
-<img src="https://github.com/sabkvq/Alfa-x-FinU-Netrunners/blob/main/media/main_photo.jpg" height=200 align="right">
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackathon3.jpg" height=200 align="right">
 
 - Предметная область: Онлайн-банкинг
 - Бизнес-задача: Создать модель, которая будет выдавать вероятность перехода в каждый из 17 продуктовых кластеров
