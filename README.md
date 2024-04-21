@@ -224,7 +224,7 @@
 
 #### Дополнительно
 
-Сертификат ***финалиста*** вы можете посмотреть [тут]([информация появится до 23.04 включительно])
+***Диплом финалиста*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Alfa%20FinU%20Hack%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_3)
 
