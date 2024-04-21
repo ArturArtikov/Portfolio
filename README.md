@@ -16,7 +16,7 @@
 ## Проекты с хакатонов 
 #### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)  
 #### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1)
-#### [Хакатон №3. Alfa x FinU Hack]() [информация появится до 22 апреля включительно]
+#### [Хакатон №3. Alfa x FinU Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-3-alfa-x-finu-hack-1)
  
 
 ## Проекты с кейс-чемпионатов 
