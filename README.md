@@ -196,7 +196,7 @@
 
 #### Краткое описание проекта
 
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackathon3.jpg" height=200 align="left">
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackathon3.jpg" height=150 align="left">
 
 Задача проекта: создать модель, которая будет выдавать вероятность перехода в каждый из 17 продуктовых кластеров
 
