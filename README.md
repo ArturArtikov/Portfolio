@@ -194,6 +194,11 @@
 
 ### Хакатон №3. Alfa x FinU Hack
 
+#### Краткое описание проекта
+
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackathon3.jpg" height=200 align="left">
+
+
 #### Используемый стек и технологии
 
 ![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
