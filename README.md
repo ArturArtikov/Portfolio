@@ -13,14 +13,12 @@
 [//]: # "[Проект №6. Задача кластеризации. Реальный кейс от компании IntelliVision]()"
 [//]: # "[Проект №7. Дипломный проект: реальные кейсы компании «Лаборатория исследований гражданского общества»]()"
 
-<br/>
 
 ## Проекты с хакатонов 
 #### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)  
 #### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1)
 #### [Хакатон №3. Alfa x FinU Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-3-alfa-x-finu-hack-1)
- 
-<br/>
+
 
 ## Проекты с кейс-чемпионатов 
 #### [Кейс-чемпионат №1. Axenix Business Cup](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-1-axenix-business-cup-1)
