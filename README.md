@@ -30,10 +30,12 @@
 ## Проекты с кейс-чемпионатов 
 #### [Кейс-чемпионат №1. Axenix Business Cup](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-1-axenix-business-cup-1)
 #### [Кейс-чемпионат №2. Changellenge Cup IT](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-2-changellenge-cup-it-1)
-#### [Кейс-чемпионат №3. Changellenge Cup Russia](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-3-changellenge-cup-russia-1)
+#### [Кейс-чемпионат №3. Changellenge Cup Russia 2024](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#%D0%BA%D0%B5%D0%B9%D1%81-%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82-3-changellenge-cup-russia-2024)
 #### [Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-4-олимпиада-для-первых-мегафон-х-спбгу)
 [//]: # "[Кейс-чемпионат №5. Gum Cup x Альфа-банк]()"
 
+https://github.com/ArturArtikov/Portfolio/blob/main/README.md#%D0%BA%D0%B5%D0%B9%D1%81-%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82-3-changellenge-cup-russia-2024
+https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-3-changellenge-cup-russia-1
 
 <br/>
 <br/>
