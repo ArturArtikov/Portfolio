@@ -36,7 +36,7 @@
 #### [Кейс-чемпионат №2. Changellenge Cup IT](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-2-changellenge-cup-it-1)
 #### [Кейс-чемпионат №3. Changellenge Cup Russia](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-3-changellenge-cup-russia-1)
 #### [Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-4-олимпиада-для-первых-мегафон-х-спбгу)
-#### [Кейс-чемпионат №5. Gum Cup x Альфа-банк](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-5-gum-cup-x-альфа-банк)
+#### [Кейс-чемпионат №5. Gum Cup x Альфа-банк](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-5-gum-cup-x-альфа-банк-1)
 
 <br/>
 <br/>
@@ -408,6 +408,6 @@ __Входные данные:__
 
 </br>
 </br>
-Дата последнего обновления раздела - 11.05.2024<br>
+Дата последнего обновления раздела - 18.05.2024<br>
 
 Макет, написание кода и оформление - **Артур Артиков**
