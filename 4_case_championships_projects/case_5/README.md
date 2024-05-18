@@ -1,28 +1,25 @@
-# Название Хакатона
+# Gum Cup x Альфа-банк
 
 ## Краткое описание
 
-[//]: # "Фото с изображением хакатона"
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects5.png" height=200 align="left"> 
 
-<img src="" height=200 align="left"> 
+__Кейс__ Альфа-банка x РУДН. Создание нового комплексного решения в банковской сфере
 
+__Задача:__ Собрать комплексное решение из банковских или небанковских продуктов, которые удовлетворят потребности бизнеса в выбранной нами сфере
 
-* Какова задача проекта?
-* Кто организатор хакатона?
-* Какое решение мы стремимся создать?
-* Где можно будет использовать наше решение?
+__Организаторы:__ Альфа банк & РУДН & «Фабрика Жвачки» (команда Альфа-Банка по созданию отраслевых решений для малого и микробизнеса)
+
+__Результат:__ Предложение комплексного решения из банковских и небанковских продуктов, с описанием затрат на его создание, процесса внедрения и сферы применения
+
+Сфера применения: Банковская сфера | Онлайн-банкинг
 
 <br/>
 
 ## Входные данные
 
-[//]: # "если не прикладываем файл, то пишем почему"
-
-файл.расширение - что за файл, что содержит, для чего используется
-
-[//]: # "если прикладываем файл"
-
-[файл.расширение]() - что за файл, что содержит, для чего используется, ссылка на файл внутри GitHub (архив) либо на внешний источник
+* Информация о новых тенденциях и сферах, интересующих банк
+* Информация о трендах, интересных и выгодных для банка
 
 <br/>
 
@@ -69,9 +66,8 @@
 
 ## Используемый стек и технологии
 
-Стек и технологии прописать с помощью shields.io
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-[Главная страница портфолио](ссылка)
+[Главная страница портфолио](https://github.com/ArturArtikov/Portfolio/blob/main/README.md)
