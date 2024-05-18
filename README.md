@@ -388,20 +388,24 @@ __Входные данные:__ Три датасета с информацие
 
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects5.png" height=150 align="left"> 
 
-__Кейс:__ 
+__Кейс:__ Создание нового комплексного решения в банковской сфере
 
-__Задача:__
+__Задача:__ Собрать комплексное решение из банковских или небанковских продуктов, которые удовлетворят потребности бизнеса в выбранной нами сфере
 
-__Входные данные:__ 
+__Входные данные:__ Информация о новых тенденциях и сферах, интересующих банк, а также возможные направления развития в данных сферах, выгодные для банка, или соответствующие его корпоративной политике, а также отвечающие трендам
 
 #### Используемый стек и технологии
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 #### Дополнительно
 
-***Сертификат *** вы можете посмотреть [тут]()
+***Сертификат участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Alfa%20Gum%20Cup%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
-Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь]()
+Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_5)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
