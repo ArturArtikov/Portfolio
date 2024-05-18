@@ -23,7 +23,7 @@
 #### [Хакатон №1. ML TalentMatch](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-1-ml-TalentMatch-1)
 #### [Хакатон №2. IT Purple Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-2-it-purple-hack-1)
 #### [Хакатон №3. Alfa x FinU Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-3-alfa-x-finu-hack-1)
-[//]:# "[Хакатон №4. ]()"
+[//]:# "[Хакатон №4. Red Lab Hack]()"
 [//]:# "[Хакатон №5. ]()"
 
 
@@ -35,6 +35,7 @@
 #### [Кейс-чемпионат №3. Changellenge Cup Russia](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-3-changellenge-cup-russia-1)
 #### [Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-4-олимпиада-для-первых-мегафон-х-спбгу)
 #### [Кейс-чемпионат №5. Gum Cup x Альфа-банк](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-5-gum-cup-x-альфа-банк-1)
+#### Кейс-чемпионат №6. FINOPOLIS.365 Москва (информация появится до 05.06)
 
 <br/>
 <br/>
