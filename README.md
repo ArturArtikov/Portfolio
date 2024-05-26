@@ -242,6 +242,10 @@
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
 <br/>
+
+### Хакатон №4. RedLab Hack
+
+<br/>
 <br/>
 
 ## Проекты с кейс-чемпионатов
