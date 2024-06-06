@@ -35,7 +35,7 @@
 #### [Кейс-чемпионат №3. Changellenge Cup Russia](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-3-changellenge-cup-russia-1)
 #### [Кейс-чемпионат №4. Олимпиада для первых. Мегафон x СПбГУ](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-4-олимпиада-для-первых-мегафон-х-спбгу)
 #### [Кейс-чемпионат №5. Gum Cup x Альфа-банк](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-5-gum-cup-x-альфа-банк-1)
-#### [Кейс-чемпионат №6. FINOPOLIS.365 Москва]()
+#### [Кейс-чемпионат №6. FINOPOLIS.365 Москва](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-6-finopolis365-москва-1)
 
 
 <br/>
