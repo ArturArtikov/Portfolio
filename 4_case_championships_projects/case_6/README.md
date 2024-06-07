@@ -38,17 +38,12 @@
 
 ## Сроки и результаты
 
-1. Какие у хакатона сроки?
+Сроки кейс-чемпионата: 23.05 - 31.05.2024
 2. Какой получился результат? Ссылка на результат, если есть
 3. Как еще можно улучшить решение?
 4. Какой получился результат метрики в приватном лидерборде?
 5. Результат в итоговом лидерборде
 6. Сертификат со ссылкой (если есть)
-
-Фото лидерборда, если есть:
-
-
-<img src="" height=200 align="left"> 
 
 <br/>
 
@@ -65,5 +60,8 @@
 <br/>
 
 ## Используемый стек и технологии
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 
