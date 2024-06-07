@@ -1,10 +1,8 @@
-# Название Хакатона
+# FINOPOLIS.365 Москва
 
 ## Краткое описание
 
-[//]: # "Фото с изображением хакатона"
-
-<img src="" height=200 align="left"> 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects6.jpg" height=200 align="left"> 
 
 
 * Какова задача проекта?
@@ -56,22 +54,16 @@
 
 ## Командный состав
 
-Команда: __*Название команды*__
+Команда: __*Alfa Universe*__
 
 Список участников команды:
 
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
+* [Артур Артиков](https://github.com/ArturArtikov): Data Scientist
+* [Сергей Логинов](https://t.me/Sergey_09876): Software Engineer
+* [Роман Муромцев](https://t.me/HeenUrpalainen): ML Engineer
 
 <br/>
 
 ## Используемый стек и технологии
 
-Стек и технологии прописать с помощью shields.io
 
-![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-[Главная страница портфолио](ссылка)
