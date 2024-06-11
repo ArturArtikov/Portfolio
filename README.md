@@ -485,7 +485,7 @@ __Входные данные:__ Информация о планах Центр
 
 #### Краткое описание проекта
 
-<img src="" height=150 align="left"> 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects7.png" height=150 align="left"> 
 
 __Кейс:__ 
 
