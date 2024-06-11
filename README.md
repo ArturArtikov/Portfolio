@@ -479,6 +479,43 @@ __Входные данные:__ Информация о планах Центр
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
+</br>
+
+### Кейс-чемпионат №7. «Просканируй ритейл» от «Ленты»
+
+#### Краткое описание проекта
+
+<img src="" height=150 align="left"> 
+
+__Кейс:__ 
+
+__Задача:__ 
+
+__Входные данные:__ 
+
+
+#### Используемый стек и технологии
+
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%231F6F70.svg?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Yandex Forms](https://img.shields.io/badge/Yandex_Forms-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### Дополнительно
+
+****** вы можете посмотреть [тут]()
+
+Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_7)
+
+:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
+
+
 
 
 </br>
