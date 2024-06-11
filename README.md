@@ -505,7 +505,7 @@ __Входные данные:__
 ![Seaborn](https://img.shields.io/badge/Seaborn-%231F6F70.svg?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Yandex Forms](https://img.shields.io/badge/Yandex_Forms-217346?style=for-the-badge&logo=yandex-forms&logoColor=white)
+![Yandex Forms](https://img.shields.io/badge/Yandex_Forms-%231F6F70.svg?style=for-the-badge)
 
 #### Дополнительно
 
