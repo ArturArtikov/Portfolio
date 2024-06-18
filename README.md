@@ -310,7 +310,7 @@
 ![Transformers](https://img.shields.io/badge/Transformers-%23f0b60c.svg?style=for-the-badge)
 ![Accelerate](https://img.shields.io/badge/Accelerate-%23faec3e.svg?style=for-the-badge)
 ![Sentencepiece](https://img.shields.io/badge/Sentencepiece-%2382dff9.svg?style=for-the-badge&)
-![Optimum](https://img.shields.io/badge/Optimum-%23cac5c1.svg?style=for-the-badge&logo=Langchain)
+![Optimum](https://img.shields.io/badge/Optimum-%23cac5c1.svg?style=for-the-badge&)
 ![Peft](https://img.shields.io/badge/Peft-%239f6df9.svg?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-%23eca574.svg?style=for-the-badge&logo=Langchain)
