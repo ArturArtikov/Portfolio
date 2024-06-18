@@ -281,6 +281,51 @@
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
 <br/>
+
+### Хакатон №5. Atomic Hack 2.0
+
+#### Краткое описание проекта
+
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackathon5.png" height=200 align="left"> 
+
+**Кейс:** Разработка системы технической поддержки пользователей
+
+**Задача:** Создать систему технической поддержки пользователей, дающую ответы на вопросы по предоставленной документации
+
+**Организаторы:** Госкорпорация РОСАТОМ
+
+**Результат:** Обученная языковая модель, способная давать ответы на запрос, в соответствии с документацией, а также способная работать без связи с сетью интернет
+
+**Сфера применения:** Ядерные Технологии
+
+#### Используемый стек и технологии
+
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PDFMiner](https://img.shields.io/badge/PDFMiner-%23fb5252.svg?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-%23f0b60c.svg?style=for-the-badge)
+![Accelerate](https://img.shields.io/badge/Accelerate-%23faec3e.svg?style=for-the-badge)
+![Sentencepiece](https://img.shields.io/badge/Sentencepiece-%2382dff9.svg?style=for-the-badge&logo=Langchain)
+![Optimum](https://img.shields.io/badge/Optimum-%23cac5c1.svg?style=for-the-badge&logo=Langchain)
+![Peft](https://img.shields.io/badge/Peft-%239f6df9.svg?style=for-the-badge&logo=Langchain)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-%23eca574.svg?style=for-the-badge&logo=Langchain)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+#### Дополнительно
+
+***Сертификат участника*** вы можете посмотреть [тут]()
+
+Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_5)
+
+:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
+
+<br/>
 <br/>
 
 ## Проекты с кейс-чемпионатов
