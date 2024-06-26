@@ -319,7 +319,7 @@
 
 #### Дополнительно
 
-***Сертификат участника*** вы можете посмотреть [тут]()
+***Сертификат финалиста*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Atomic%20Hack%202.0%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_5)
 
