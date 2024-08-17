@@ -11,17 +11,20 @@
 
 ![](https://lms-cdn.skillfactory.ru/assets/courseware/v1/837cf6ff79f483e387a16c993634f3e4/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/SQL_pj2_2_2.png)
 
-Таблица AREAS - данные о регионах и их названиях. Связана с таблицей VACANCIES, через VACANCIES.area_id = AREAS.id
+Таблица AREAS - данные о регионах и их названиях
+
 ![](https://lms-cdn.skillfactory.ru/assets/courseware/v1/682c2306f3d46a25915a89d4ec7e16ed/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/SQL_pj2_2_3.png)
 
-Таблица EMPLOYERS - данные о работодателях, их ID и регионе. Связана с таблицей VACANCIES, через VACANCIES.employer_id = EMPLOYERS.id
+Таблица EMPLOYERS - данные о работодателях, их ID и регионе
+
 ![](https://lms-cdn.skillfactory.ru/assets/courseware/v1/d2a26db623c75572c71923b57241e038/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/SQL_pj2_2_4.png)
 
-Таблица EMPLOYERS_INDUSTRIES - образует связь между таблицами EMPLOYERS и INDUSTRIES. Связана с таблицей EMPLOYERS, через EMPLOYERS_INDUSTRIES.employer_id = EMPLOYERS.id 
-и с таблицей INDUSTRIES, через EMPLOYERS_INDUSTRIES.industry_id = INDUSTRIES.id
+Таблица EMPLOYERS_INDUSTRIES - образует связь между таблицами EMPLOYERS и INDUSTRIES
+
 ![](https://lms-cdn.skillfactory.ru/assets/courseware/v1/16ff3df0bb0ddecd922562f3c4bdd32c/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/SQL_pj2_2_6.png)
 
-Таблица INDUSTRIES - данные о сферах деятельности работодателей. Связана с таблицей EMPLOYERS_INDUSTRIES, через INDUSTRIES.id = EMPLOYERS_INDUSTRIES.industry_id
+Таблица INDUSTRIES - данные о сферах деятельности работодателей
+
 ![](https://lms-cdn.skillfactory.ru/assets/courseware/v1/2c76bca09937a1a05a9e66d51008e298/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/SQL_pj2_2_5.png)
 
 
