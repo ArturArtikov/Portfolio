@@ -24,8 +24,6 @@
 Таблица INDUSTRIES - данные о сферах деятельности работодателей. Связана с таблицей EMPLOYERS_INDUSTRIES, через INDUSTRIES.id = EMPLOYERS_INDUSTRIES.industry_id
 ![](https://lms-cdn.skillfactory.ru/assets/courseware/v1/2c76bca09937a1a05a9e66d51008e298/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/SQL_pj2_2_5.png)
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Оглавление)
-
 
 ## Этапы работы над проектом
 
