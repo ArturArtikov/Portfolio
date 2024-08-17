@@ -1,40 +1,17 @@
-# Project 2. Анализ вакансий из HeadHunter
+# Проект №2. Анализ вакансий из HeadHunter
 
-## Оглавление
-[1. Описание проекта](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Какой-кейс-решаем)
+## Описание проекта
+Провести анализ вакансий, предоставленных с сайта HeadHunter. Узнать информацию о компаниях, количестве их рабочих сфер, вакансиях и предлагаемой заработной плате.
 
-[3. Краткая информация о данных](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Этапы-работы-над-проектом)
+## Какой кейс решаем
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project2.jpg" height=150 align="left"> 
 
-[5. Результаты](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Результаты)
+У нас на руках есть данные о вакансиях, городах, списке работодателей и их сферах деятельности. Необходимо объединить, очистить и преобразовать данные таким образом, чтобы понять на что обращают внимание работодатели и какими навыками должны обладать соискатели, чтобы претендовать на ту или иную вакансию.
 
-[6. Выводы](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Выводы)
 
-### Описание проекта
-Провести анализ вакансий, предоставленных с сайта HeadHunter. Узнать информацию о компаниях, количестве их рабочих сфер,
-вакансиях и предлагаемой заработной плате.
-
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Оглавление)
-
-### Какой кейс решаем
-Используя данные из 4 таблиц (и одной дополнительной) получить информацию о работодателях. Разобраться в регионах вакансий, компаниях с наибольшим количеством вакансий,
-а также сферах работы компаний и требований по ключевым навыкам к соискателям.
-
-**Что практикуем**
-1. Умение работать с библиотекой Pandas для получения данных
-2. Умение работать с библиотекой psycopg2 для считывания данных из удаленного источника
-3. Навык написания SQL-запросов, при помощи f-строк
-4. Навык использования агрегирующих функций в SQL
-5. Навыки соединения таблиц (join, left join)
-6. Навыки объединения таблиц (union, union all)
-7. Умение получать выводы из данных без построения графиков
-
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Оглавление)
-
-### Краткая информация о данных
+## Краткая информация о данных
 Таблица VACANCIES - данные о вакансиях. Основная таблица для анализа.
 
 ![](https://lms-cdn.skillfactory.ru/assets/courseware/v1/837cf6ff79f483e387a16c993634f3e4/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/SQL_pj2_2_2.png)
@@ -54,7 +31,8 @@
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Оглавление)
 
-### Этапы работы над проектом
+
+## Этапы работы над проектом
 
 1. Установление связи с внешним источником, при помощи библиотеки psycopg2
 2. Предварительный анализ данных (анализ количества записей в каждой из таблиц и пр.)
@@ -65,15 +43,20 @@
 7. Общий вывод по анализу
 8. Выкладка работы на GitHub
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Оглавление)
 
-### Результаты
+## Результаты
 Получены списки выводов, которые могут помочь соискателям в поиске работы, а также работодателям в выкладке вакансий, на основе собранной информации.
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Оглавление)
 
-### Выводы
-На основании проделанной работы получена информация о работодателях и вакансиях, которая может быть в дальнейшем использована для учлучшения рекомендательной системы вакансий соискателям
-и помощи работодателям в написании четкого описания вакансии.
+## Используемый стек и технологии
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_2_Analysis_of_vacancies_from_HeadHunter/README.md#Оглавление)
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%23ffffff.svg?style=for-the-badge)
+![Psycopg2](https://img.shields.io/badge/psycopg2-%23fcd703.svg?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-%23636970.svg?style=for-the-badge)
+
+[Вернуться в главное меню](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
