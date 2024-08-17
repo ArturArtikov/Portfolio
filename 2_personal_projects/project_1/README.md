@@ -1,10 +1,5 @@
 # Проект №1. Анализ резюме из HeadHunter
 
-
-## Описание проекта
-Провести анализ данных для компании HeadHunter
-
-
 ## Какой кейс решаем
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" height=150 align="left">
 
