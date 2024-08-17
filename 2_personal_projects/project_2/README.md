@@ -1,10 +1,5 @@
 # Проект №2. Анализ вакансий из HeadHunter
 
-
-## Описание проекта
-Провести анализ вакансий, предоставленных с сайта HeadHunter. Узнать информацию о компаниях, количестве их рабочих сфер, вакансиях и предлагаемой заработной плате.
-
-
 ## Какой кейс решаем
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project2.jpg" height=150 align="left"> 
 
