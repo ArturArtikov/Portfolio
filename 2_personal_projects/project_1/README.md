@@ -64,3 +64,5 @@ https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysi
 
 :arrow_up: [к оглавлению](
 https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysis_of_resumes_from_HeadHunter/README.md#Оглавление)
+
+[Вернуться в главное меню](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
