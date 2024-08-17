@@ -8,6 +8,8 @@
 https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysis_of_resumes_from_HeadHunter/README.md#Оглавление)
 
 ### Какой кейс решаем
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" height=150 align="left">
+
 На основе предоставленных данных, произвести их исследования, преобразования, исследование зависимостей и очистку для того, чтобы получить данные, пригодные для прогнозирования заработных плат соискателей.
 
 **Что практикуем**
