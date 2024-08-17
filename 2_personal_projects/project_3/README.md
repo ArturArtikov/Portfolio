@@ -1,26 +1,9 @@
 # Проект №3. Анализ отзывов отелей с Booking
 
-## Описание проекта
-
-Построить модель для определения того, является ли отзыв об отеле накрученным или нет. Для определения составить модель, предсказывающую то, какую оценку должен поставить отелю проживающий в зависимости от различных факторов.
-
-
 ## Какой кейс решаем
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project3.png" height=150 align="left"> 
 
 Используя предоставленные таблицы с отзывами об отелях провести анализ отзывов, заполнить пропущенные значения, подготовить данные к обучению модели машинного обучения. Обучить модель, получить список оценок для 128000 отзывов и узнать, насколько они отличаются от реальных.
-
-**Что практикуем**
-
-1. Умение работать с библиотекой Pandas для получения данных
-2. Умение объединять данные при помощи библиотеки Pandas с созданием нового признака
-3. Умение восстанавливать пропущенные значения с помощью библиотеки Geocoder
-4. Умение визуализировать данные с помощью библиотек Pandas и Seaborn (Matplotlib)
-5. Умение работать с библиотекой Sklearn
-6. Навык генерации признаков из текстового в числовой формат
-7. Умение кодировать информацию с помощью библиотеки category_encoders
-8. Умение получать оценку об отелей через текстовый отзыв с помощью библиотеки Nltk
-9. Умение отбирать признаки для лучшего построения модели машинного обучения
-10. Навык нахождения наиболее важных для построения модели признаков
 
 
 ## Краткая информация о данных
@@ -30,6 +13,7 @@
 * hotels_test.csv - набор данных для оценки качества модели
 
 * [submission.csv](https://github.com/ArturArtikov/Portfolio/blob/main/2_personal_projects/project_3/submission.csv) -  файл сабмишна в нужном формате (то как должен будет выглядеть результат после предсказания)
+
 
 ## Этапы работы над проектом
 
@@ -64,6 +48,19 @@
 [Решение на Kaggle](https://www.kaggle.com/arturartikov/artur-artikov-baseline) - решение, а также метрика MAPE, полученная после публикации результатов на Kaggle, равная 12.71075% отклонений от идеальных значений
 
 
-## Выводы
+## Используемый стек и технологии
 
-На основании проделанной работы построена модель, предсказывающая оценки для отелей, выставляемые пользователями. Полученная модель может быть использована в дальнейшем для поиска отелей, завышающих себе рейтинг, а также для выявления накрученных отзывов
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%231F6F70.svg?style=for-the-badge)
+![GeoPy](https://img.shields.io/badge/GeoPy-%23EEE8AA.svg?style=for-the-badge&logo=google-earth&logoColor=#4285F4)
+![Category-Encoders](https://img.shields.io/badge/category--encoders-%2300BFFF.svg?style=for-the-badge)
+![Nltk](https://img.shields.io/badge/nltk-%235F9EA0.svg?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+[Вернуться в главное меню](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
