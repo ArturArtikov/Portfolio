@@ -36,7 +36,7 @@
 #### [Кейс-чемпионат №5. Gum Cup x Альфа-банк](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-5-gum-cup-x-альфа-банк-1)
 #### [Кейс-чемпионат №6. FINOPOLIS.365 Москва](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-6-finopolis365-москва-1)
 #### [Кейс-чемпионат №7. Просканируй ритейл от «Ленты»](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-7-просканируй-ритейл-от-ленты-1)
-#### [Кейс-чемпионат №8. Альфа Кейс Кэмп]()
+#### [Кейс-чемпионат №8. Альфа Кейс Кэмп](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-8-альфа-кейс-кэмп-1)
 
 
 
