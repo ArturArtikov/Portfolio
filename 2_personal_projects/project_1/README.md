@@ -4,9 +4,6 @@
 ## Описание проекта
 Провести анализ данных для компании HeadHunter
 
-:arrow_up: [к оглавлению](
-https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysis_of_resumes_from_HeadHunter/README.md#Оглавление)
-
 
 ## Какой кейс решаем
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" height=150 align="left">
@@ -21,9 +18,6 @@ https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysi
 5. Умение искать в данных выбросы и избавляться от них
 6. Уменить находить пробелы в данных и удалять их/заменять на другие значения
 
-:arrow_up: [к оглавлению](
-https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysis_of_resumes_from_HeadHunter/README.md#Оглавление)
-
 
 ## Краткая информация о данных
 
@@ -32,9 +26,6 @@ dst-3.0_16_1_hh_database.csv - база данных, содержащая ва�
 [ExchangeRates.csv](https://github.com/ArturArtikov/Educational_projects/blob/main/Project_1_Analysis_of_resumes_from_HeadHunter/data/ExchangeRates.csv) - база данных, содержащая отношение валют к рублю за необходимый для анализа срок
 
 [hh_database_preprocessed.csv](https://github.com/ArturArtikov/Educational_projects/blob/main/Project_1_Analysis_of_resumes_from_HeadHunter/data/hh_database_preprocessed.csv) - база данных, исходных вакансий с переведенными в рубли заработными платами, а также с измененными значениями столбцов
-
-:arrow_up: [к оглавлению](
-https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysis_of_resumes_from_HeadHunter/README.md#Оглавление)
 
 
 ## Этапы работы над проектом
@@ -45,15 +36,9 @@ https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysi
 4. Поиск взаимосвязей и выбросов в данных, путем построения графиков
 5. Очистка данных от выбросов, пробелов и неинформативных признаков
 
-:arrow_up: [к оглавлению](
-https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysis_of_resumes_from_HeadHunter/README.md#Оглавление)
-
 
 ## Результаты
 На основании проделанной работы получены очищенные данные, необходимые для предсказания заработных плат соискателей по требуемым признакам.
-
-:arrow_up: [к оглавлению](
-https://github.com/ArturArtikov/Educational_projects/tree/main/Project_1_Analysis_of_resumes_from_HeadHunter/README.md#Оглавление)
 
 
 ## Используемый стек и технологии
