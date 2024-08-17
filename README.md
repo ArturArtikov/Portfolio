@@ -567,7 +567,7 @@ __Входные данные:__
 
 #### Краткое описание проекта
 
-<img src="" height=150 align="left"> 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects8.png" height=150 align="left"> 
 
 __Кейс:__ 
 
