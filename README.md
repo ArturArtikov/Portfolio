@@ -26,7 +26,6 @@
 #### [Хакатон №4. RedLab Hack](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-4-redlab-hack-1)
 #### [Хакатон №5. Atomic Hack 2.0](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#хакатон-5-atomic-hack-20-1)
 
-
 <br/>
 
 ## Проекты с кейс-чемпионатов 
@@ -37,6 +36,8 @@
 #### [Кейс-чемпионат №5. Gum Cup x Альфа-банк](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-5-gum-cup-x-альфа-банк-1)
 #### [Кейс-чемпионат №6. FINOPOLIS.365 Москва](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-6-finopolis365-москва-1)
 #### [Кейс-чемпионат №7. Просканируй ритейл от «Ленты»](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-7-просканируй-ритейл-от-ленты-1)
+#### [Кейс-чемпионат №8. Альфа Кейс Кэмп]()
+
 
 
 <br/>
@@ -560,7 +561,29 @@ __Входные данные:__
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
+</br>
 
+### Кейс-чемпионат №8. Альфа Кейс Кэмп
+
+#### Краткое описание проекта
+
+<img src="" height=150 align="left"> 
+
+__Кейс:__ 
+
+__Задача:__ 
+
+__Входные данные:__ 
+
+
+#### Используемый стек и технологии
+
+
+#### Дополнительно
+
+Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_8)
+
+:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
 
 </br>
