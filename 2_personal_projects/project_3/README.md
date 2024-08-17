@@ -1,25 +1,11 @@
-# Project 3. EDA + Feature Engineering
+# Проект №3. Анализ отзывов отелей с Booking
 
-## Оглавление
-[1. Описание проекта](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Описание-проекта)
-
-[2. Какой кейс решаем](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Какой-кейс-решаем)
-
-[3. Краткая информация о данных](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Краткая-информация-о-данных)
-
-[4. Этапы работы над проектом](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Этапы-работы-над-проектом)
-
-[5. Результаты](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Результаты)
-
-[6. Выводы](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Выводы)
-
-### Описание проекта
+## Описание проекта
 
 Построить модель для определения того, является ли отзыв об отеле накрученным или нет. Для определения составить модель, предсказывающую то, какую оценку должен поставить отелю проживающий в зависимости от различных факторов.
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Оглавление)
 
-### Какой кейс решаем
+## Какой кейс решаем
 
 Используя предоставленные таблицы с отзывами об отелях провести анализ отзывов, заполнить пропущенные значения, подготовить данные к обучению модели машинного обучения. Обучить модель, получить список оценок для 128000 отзывов и узнать, насколько они отличаются от реальных.
 
@@ -36,9 +22,8 @@
 9. Умение отбирать признаки для лучшего построения модели машинного обучения
 10. Навык нахождения наиболее важных для построения модели признаков
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Оглавление)
 
-### Краткая информация о данных
+## Краткая информация о данных
 
 * hotels_train.csv - набор данных для обучения модели
 
@@ -46,9 +31,7 @@
 
 * [submission.csv](https://github.com/ArturArtikov/Portfolio/blob/main/2_personal_projects/project_3/submission.csv) -  файл сабмишна в нужном формате (то как должен будет выглядеть результат после предсказания)
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Оглавление)
-
-### Этапы работы над проектом
+## Этапы работы над проектом
 
 1. Подгрузка трех файлов, получение основной информации о них
 2. Описание содержимого всех трех файлов
@@ -73,18 +56,14 @@
 21. Публиция результатов на Kaggle
 22. Публикация результатов на GitHub
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Оглавление)
 
-### Результаты
+## Результаты
 
 [submission_final.csv](https://github.com/ArturArtikov/Educational_projects/blob/main/Project_3_EDA_and_Feature_Engineering/submission_final.csv) - файл с предсказанными оценками
 
 [Решение на Kaggle](https://www.kaggle.com/arturartikov/artur-artikov-baseline) - решение, а также метрика MAPE, полученная после публикации результатов на Kaggle, равная 12.71075% отклонений от идеальных значений
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Оглавление)
 
 ### Выводы
 
 На основании проделанной работы построена модель, предсказывающая оценки для отелей, выставляемые пользователями. Полученная модель может быть использована в дальнейшем для поиска отелей, завышающих себе рейтинг, а также для выявления накрученных отзывов
-
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Educational_projects/tree/main/Project_3_EDA_and_Feature_Engineering/README.md#Оглавление)
