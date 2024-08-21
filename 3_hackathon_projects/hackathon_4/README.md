@@ -59,8 +59,6 @@
 
 Итог: 13-ое место по сумме решения, реализации и защиты (из 26 команд)
 
-Презентацию решения можно найти по [ссылке](https://drive.google.com/file/d/1B4aBLXJfCY6FsNL_fRZQGlB-Tb3lIiVv/view?usp=sharing)
-
 Дополнительно: [сертификат участника](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/RedLab%20Hack%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 </br>
