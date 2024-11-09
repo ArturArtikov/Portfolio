@@ -568,14 +568,24 @@ __Входные данные:__ Категории товаров гиперм�
 
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects8.png" height=150 align="left"> 
 
-__Кейс:__ 
+__Кейс:__ Подписка нового поколения
 
-__Задача:__ 
+__Задача:__ Разработать концепцию продукта Альфа-Банка по подписочной модели для молодёжи, которая обеспечит увеличение охвата активных клиентов в возрасте от 18 до 22 лет с 10 до 35% к концу 2026 года
 
-__Входные данные:__ 
+__Входные данные:__ Анализ молодежного сегмента рынка, Конкурентный анализ банковских продуктов трех банков (Сбер, Альфа-Банк и Т-Банк), Информация об образе жизни и ценностях молодежи из опросов
 
 
 #### Используемый стек и технологии
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Yandex Forms](https://img.shields.io/badge/Yandex_Forms-%235e9291.svg?style=for-the-badge)
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%231F6F70.svg?style=for-the-badge)
 
 
 #### Дополнительно
@@ -587,6 +597,9 @@ __Входные данные:__
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
 </br>
+
+
+
 
 ### Кейс-чемпионат №9. Axenix Business Cup & Губкинский Кейс Клуб
 
