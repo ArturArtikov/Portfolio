@@ -578,6 +578,30 @@ __Входные данные:__
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
+</br>
+
+### Кейс-чемпионат №9. Axenix Business Cup & Губкинский Кейс Клуб
+
+#### Краткое описание проекта
+
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects9.jpg" height=150 align="left"> 
+
+__Кейс:__ 
+
+__Задача:__ 
+
+__Входные данные:__ 
+
+
+#### Используемый стек и технологии
+
+
+#### Дополнительно
+
+Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_9)
+
+:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
+
 
 </br>
 </br>
