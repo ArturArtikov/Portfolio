@@ -1,4 +1,4 @@
-# Кейс-чемпионат №1. Axenix Business Cup
+# Axenix Business Cup & HSE Case Club
 
 ## Краткое описание
 
