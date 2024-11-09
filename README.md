@@ -640,14 +640,25 @@ __Входные данные:__ Анализ молодежного сегме�
 
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects9.jpg" height=150 align="left"> 
 
-__Кейс:__ 
+__Кейс:__ Интегрированное планирование
 
-__Задача:__ 
+__Задача:__ Выбрать и предложить оптимальное решение обеспечивающее минимизацию отклонений в процессе графикования, провести исследование зависимости производительности заводов и нагрузку производственных линий
+от продуктовых факторов
 
-__Входные данные:__ 
+__Входные данные:__ Информация о компании ООО "СтальТрубЛом", ее рынках сбыта, ассортименте, результатах и целях
 
 
 #### Используемый стек и технологии
+
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%231F6F70.svg?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
 #### Дополнительно
