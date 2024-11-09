@@ -124,6 +124,9 @@
 <br/>
 <br/>
 
+
+
+
 ## Проекты с хакатонов
 
 ### Хакатон №1. ML TalentMatch
@@ -150,15 +153,16 @@
 
 #### Дополнительно
 
-> [___Сертификат участника___](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/ML%20TalentMatch%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
-
-***Сертификат участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/ML%20TalentMatch%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Сертификат участника__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/ML%20TalentMatch%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_1)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
 <br/>
+
+
+
 
 ### Хакатон №2. IT Purple Hack
 
@@ -191,13 +195,16 @@
 
 #### Дополнительно
 
-***Сертификат участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/IT%20Purple%20Hack%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Сертификат участника__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/IT%20Purple%20Hack%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_2)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
 <br/>
+
+
+
 
 ### Хакатон №3. Alfa x FinU Hack
 
@@ -231,13 +238,16 @@
 
 #### Дополнительно
 
-***Диплом финалиста*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Alfa%20FinU%20Hack%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Диплом финалиста__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Alfa%20FinU%20Hack%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_3)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
 <br/>
+
+
+
 
 ### Хакатон №4. RedLab Hack
 
@@ -270,13 +280,16 @@
 
 #### Дополнительно
 
-***Сертификат участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/RedLab%20Hack%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Сертификат участника__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/RedLab%20Hack%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_4)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-хакатонов)
 
 <br/>
+
+
+
 
 ### Хакатон №5. Atomic Hack 2.0
 
@@ -315,7 +328,7 @@
 
 #### Дополнительно
 
-***Сертификат финалиста*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Atomic%20Hack%202.0%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Сертификат финалиста__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Atomic%20Hack%202.0%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/3_hackathon_projects/hackathon_5)
 
@@ -323,6 +336,10 @@
 
 <br/>
 <br/>
+
+
+
+
 
 ## Проекты с кейс-чемпионатов
 
@@ -359,13 +376,16 @@ __Задача 2-го этапа:__ разработать ИТ-архитект
 
 #### Дополнительно
 
-***Диплом полуфиналиста*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Axenix%20Business%20Cup%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BF%D0%BE%D0%BB%D1%83%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Диплом полуфиналиста__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Axenix%20Business%20Cup%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BF%D0%BE%D0%BB%D1%83%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_1)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
 </br>
+
+
+
 
 ### Кейс-чемпионат №2. Changellenge Cup IT
 
@@ -394,13 +414,16 @@ __Входные данные:__ Шесть датасетов в формате
 
 #### Дополнительно
 
-***Диплом High Quality Awards*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Changellenge%20Cup%20IT%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20HQA.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Диплом High Quality Awards__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Changellenge%20Cup%20IT%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20HQA.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_2)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
 </br>
+
+
+
 
 ### Кейс-чемпионат №3. Changellenge Cup Russia
 
@@ -426,14 +449,16 @@ __Входные данные:__ Три вида данных для созда�
 
 #### Дополнительно
 
-***Диплом участника первого этапа*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Changellenge%20Cup%20Russia%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Диплом участника первого этапа__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Changellenge%20Cup%20Russia%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_3)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
-
 </br>
+
+
+
 
 ### Кейс-чемпионат №4. Олимпиада для первых. Мегафон х СПбГУ
 
@@ -457,13 +482,16 @@ __Входные данные:__ Три датасета с информацие
 
 #### Дополнительно
 
-***Сертификат полуфиналиста*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%20%D1%85%20%D0%A1%D0%9F%D0%B1%D0%93%D0%A3.%20%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D1%85%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BF%D0%BE%D0%BB%D1%83%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Сертификат полуфиналиста__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%20%D1%85%20%D0%A1%D0%9F%D0%B1%D0%93%D0%A3.%20%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D1%85%20-%202024.%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BF%D0%BE%D0%BB%D1%83%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_4)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
 </br>
+
+
+
 
 ### Кейс-чемпионат №5. Gum Cup x Альфа-банк
 
@@ -486,13 +514,16 @@ __Входные данные:__ Информация о новых тенден
 
 #### Дополнительно
 
-***Сертификат участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Alfa%20Gum%20Cup%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Сертификат участника__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Alfa%20Gum%20Cup%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_5)
 
 :arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#проекты-с-кейс-чемпионатов)
 
 </br>
+
+
+
 
 ### Кейс-чемпионат №6. FINOPOLIS.365 Москва
 
@@ -514,7 +545,7 @@ __Входные данные:__ Информация о планах Центр
 
 #### Дополнительно
 
-***Диплом участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/FINOPOLIS%20365%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Диплом участника__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/FINOPOLIS%20365%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_6)
 
@@ -553,7 +584,7 @@ __Входные данные:__ Категории товаров гиперм�
 
 #### Дополнительно
 
-***Диплом участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/%D0%9F%D1%80%D0%BE%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D1%80%D1%83%D0%B8%CC%86%20%D1%80%D0%B8%D1%82%D0%B5%D0%B8%CC%86%D0%BB%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+> [__Диплом участника__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/%D0%9F%D1%80%D0%BE%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D1%80%D1%83%D0%B8%CC%86%20%D1%80%D0%B8%D1%82%D0%B5%D0%B8%CC%86%D0%BB%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_7)
 
@@ -592,7 +623,7 @@ __Входные данные:__ Анализ молодежного сегме�
 
 #### Дополнительно
 
-***Диплом участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Alfa%20Case%20Camp%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%90%D1%80%D1%82%D1%83%D1%80.pdf)
+> [__Диплом участника__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Alfa%20Case%20Camp%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%90%D1%80%D1%82%D1%83%D1%80.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_8)
 
@@ -621,7 +652,7 @@ __Входные данные:__
 
 #### Дополнительно
 
-***Диплом участника*** вы можете посмотреть [тут](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Axenix%20Business%20Cup%20%26%20%D0%93%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B8%CC%86%20%D0%9A%D0%B5%D0%B8%CC%86%D1%81%20%D0%9A%D0%BB%D1%83%D0%B1%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf.pdf)
+> [__Диплом участника__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Axenix%20Business%20Cup%20%26%20%D0%93%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B8%CC%86%20%D0%9A%D0%B5%D0%B8%CC%86%D1%81%20%D0%9A%D0%BB%D1%83%D0%B1%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf.pdf)
 
 Более подробно узнать о проекте, входных данных, этапах работы, сроках и результатах, а также о стеке вы можете [здесь](https://github.com/ArturArtikov/Portfolio/tree/main/4_case_championships_projects/case_9)
 
