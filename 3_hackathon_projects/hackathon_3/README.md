@@ -1,4 +1,4 @@
-# Alfa FinU Hack. Команда Netrunners
+# Alfa FinU Hack
 
 ## Описание
 
