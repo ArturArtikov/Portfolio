@@ -12,7 +12,7 @@ __Задача:__ Разработать стратегию запуска но�
 
 __Организаторы:__ Changellenge & Lab Industries (ex. Henkel)
 
-__Результат:__ Разработака и предложение подхода к созданию рекомендательной системы, способной оптимизировать наличие и расположение товаров на полках
+__Результат:__ Разработанная стратегия запуска нового бренда LAB Industries
 
 __Сфера применения:__ Парфюмерно-косметическая продукция
 
@@ -22,12 +22,7 @@ __Сфера применения:__ Парфюмерно-косметическ
 
 *Все данные являются конфиденциальными, а кейс принадлежит компании-составителю, поэтому приложение ссылок на данные и описание кейса невозможно ввиду ограничения со стороны правообладателя в лице компании Changellenge*
 
-* pos_general.csv - фактические данные о POS (точках продаж). Одна транзакция — одна строка (объект)
-* prod_dim.csv - мастер-данные по продуктам (DIM), перечень исключительно продуктов P&G
-* site_dim.csv - мастер-данные по магазинам (DIM), перечень всех магазинов, в которые отгружаются товары P&G и каким клиентам они принадлежат
-* cust_dim.csv - мастер-данные по клиентам (DIM), перечень всех клиентов P&G, вместо наименований клиентов хранятся зашифрованные значения в виде хешей (hash)
-* cust_dim_hash.csv - вспомогательная расшифровка хешей для клиентов
-* shipments.csv - данные по отгрузкам по времени и магазинам
+* 
 
 <br/>
 
@@ -53,42 +48,35 @@ __Сфера применения:__ Парфюмерно-косметическ
 
 ## Сроки и результаты
 
-__Сроки:__ 11.03.2024 - 17.03.2024 (1-ый этап), 02.04.2024 - онлайн финал
+__Сроки:__ 
 
-__Результат:__ [презентация](https://github.com/ArturArtikov/Portfolio/blob/main/4_case_championships_projects/case_2/Changellenge%20Cup%20IT.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.%20%D0%9A%D0%B5%D0%B9%D1%81%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20Procter%20and%20Gamble.%20%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20New%20challenge.pdf) решения кейса со всем необходимым описанием
+__Результат:__ [презентация] 
 
-__Возможные улучшения:__ создание рекомендательной модели на основе Python-библиотек OpenCV, TensorFlow, PyTorch
+__Возможные улучшения:__ 
 
-__Итоговый результат:__ оценка выполненной работы в виде показателя HQA (High Quality Awards)
+__Итоговый результат:__ 
 
-__Сертификат|Диплом:__ [Диплом High Quality Awards](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Changellenge%20Cup%20IT%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20HQA.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
+__Сертификат|Диплом:__ [__Диплом участника__](https://github.com/ArturArtikov/Portfolio/blob/main/1_media/4_certificates/Changellenge%20Cup%20Russia%20-%202024.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.%20%D0%90%D1%80%D1%82%D1%83%D1%80%20%D0%90%D1%80%D1%82%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
 
 <br/>
 
 ## Командный состав
 
-Команда: __New challenge__
+Команда: 
 
 Список участников команды:
 
-* [Косицына Евгения](https://t.me/QEvgesha) - Капитан команды | Data Analyst
 * [Артиков Артур](https://t.me/ArturArtikov) - Data Scientist | Data Analyst
-* [Шевченко Андрей](https://t.me/drynya_7) - Backend Python Developer
-* Галенда Семен - Data Analyst | Designer
-* Самсонова Александра - Slide maker | Designer
+
 
 <br/>
 
 ## Используемый стек и технологии
 
-![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%231F6F70.svg?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
 [Главная страница портфолио](https://github.com/ArturArtikov/Portfolio/blob/main/README.md)
