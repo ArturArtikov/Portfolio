@@ -61,9 +61,9 @@ __Результат:__ Предложение комплексного реше
 
 Список участников команды:
 
-* __Василиса Оркина__ -  Капитан команды | Project Manager
-* [__Артур Артиков__](https://github.com/ArturArtikov) - Участник | Data Scientist | Аналитик данных
-* __Тимофей Лазарев__ - Участник | Researcher
+* [Василиса Оркина](https://t.me/l_BaNsHeE) -  Капитан команды | Project Manager
+* [Артур Артиков](https://github.com/ArturArtikov) - Data Scientist | Data Analyst
+* Тимофей Лазарев - Researcher
 
 <br/>
 
