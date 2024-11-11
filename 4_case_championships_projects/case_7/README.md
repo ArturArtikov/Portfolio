@@ -2,7 +2,7 @@
 
 ## Краткое описание
 
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects7.pn" height=200 align="left"> 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects7.png" height=200 align="left"> 
 
 __Кейс:__ Гипермаркет будущего
 
