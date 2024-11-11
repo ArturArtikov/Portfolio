@@ -1,16 +1,18 @@
-# Название Хакатона
+# Олимпиада для первых. Мегафон х СПбГУ
 
 ## Краткое описание
 
-[//]: # "Фото с изображением хакатона"
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects4.jpg" height=200 align="left"> 
 
-<img src="" height=200 align="left"> 
+__Кейс:__ Искусственный интеллект для умного города
 
+__Задача:__ Разработать инновационный продукт для цифровой трансформации предприятий городского малого и среднего бизнеса
 
-* Какова задача проекта?
-* Кто организатор хакатона?
-* Какое решение мы стремимся создать?
-* Где можно будет использовать наше решение?
+__Организаторы:__ Мегафон х СПбГУ (Санкт-Петербургский Государственный Университет)
+
+__Результат:__ Оформленное предложение по создании системы резервного переключения роутеров
+
+__Сфера применения:__ Телекоммуникации 
 
 <br/>
 
@@ -47,31 +49,28 @@
 5. Результат в итоговом лидерборде
 6. Сертификат со ссылкой (если есть)
 
-Фото лидерборда, если есть:
-
-
-<img src="" height=200 align="left"> 
 
 <br/>
 
 ## Командный состав
 
-Команда: __*Название команды*__
+Команда: __MFocus__
 
 Список участников команды:
 
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
+* [Артиков Артур](https://t.me/ArturArtikov): Капитан | Data Scientist | Data Analyst
+* [Баган Владимир](https://t.me/Baga11111): Технический специалист
+* [Белова Лера](https://t.me/lerbelova): Project Manager
+* [Кузьмина Анастасия](https://t.me/kuasya): Data Analyst
+* [Павлюченко Алиса](https://t.me/notfromwunderland): Product Manager
 
 <br/>
 
 ## Используемый стек и технологии
 
-Стек и технологии прописать с помощью shields.io
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-[Главная страница портфолио](ссылка)
+[Главная страница портфолио](https://github.com/ArturArtikov/Portfolio/blob/main/README.md)
