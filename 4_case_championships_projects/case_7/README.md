@@ -63,7 +63,7 @@ __Сертификат|Диплом:__ [диплом участника](https:/
 
 * [Оркина Василиса](https://t.me/l_BaNsHeE): Капитан | Project Manager
 * [Артиков Артур](https://t.me/ArturArtikov): Business Analyst | Data Analyst
-* [Шадрина Екатерина ](https://t.me/shadrina_es): Researcher & Analyst
+* [Шадрина Екатерина](https://t.me/shadrina_es): Researcher & Analyst
 * Лазарев Тимофей: Researcher & Analyst
 * Новицкая Ирина: Idea Generator
 
