@@ -30,6 +30,8 @@
 #### [Кейс-чемпионат №7. Просканируй ритейл от «Ленты»](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-7-просканируй-ритейл-от-ленты-1)
 #### [Кейс-чемпионат №8. Альфа Кейс Кэмп](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-8-альфа-кейс-кэмп-1)
 #### [Кейс-чемпионат №9. Axenix Business Cup & Губкинский Кейс Клуб](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#кейс-чемпионат-9-axenix-business-cup--губкинский-кейс-клуб-1)
+#### [Кейс-чемпионат №10. Changellenge Cup Moscow](soon)
+
 
 
 
